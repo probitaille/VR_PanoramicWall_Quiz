@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PanoramicWall.CSharp", "PanoramicWall.CSharp.csproj", "{260B65A4-4A0F-A2AA-CE8C-40643459D743}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PanoramicWall.CSharp.Editor", "PanoramicWall.CSharp.Editor.csproj", "{C1F569E9-1C26-50E4-62E3-12E96FF104FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{260B65A4-4A0F-A2AA-CE8C-40643459D743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{260B65A4-4A0F-A2AA-CE8C-40643459D743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{260B65A4-4A0F-A2AA-CE8C-40643459D743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{260B65A4-4A0F-A2AA-CE8C-40643459D743}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1F569E9-1C26-50E4-62E3-12E96FF104FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1F569E9-1C26-50E4-62E3-12E96FF104FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1F569E9-1C26-50E4-62E3-12E96FF104FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1F569E9-1C26-50E4-62E3-12E96FF104FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
